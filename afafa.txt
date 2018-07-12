@@ -1,0 +1,3 @@
+user postgres
+password abhith
+port 5433
